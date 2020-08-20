@@ -1,0 +1,22 @@
+#To mark files for committing
+git add
+
+#To commit files (with a message)
+git commit -m "Message"
+
+#To push our changes to github.com
+git push
+
+#To get changes (from somewhere else)...
+git pull
+
+#To clone a location
+git clone <url>
+
+#This is how you change branches
+git checkout gh-pages
+
+#Check on status of files
+git status
+
+
