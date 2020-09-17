@@ -64,18 +64,13 @@ body {
 #mod3-main-content {
   border: 2px solid #000080;
   border-radius: 5px;
-  background-color: #8080ff
+  background-color: #8080ff;
 }
 
 #mod3-main-content h2 {
   font-size: 1.2em;
   font-weight: bold;
 }
-
-/* END HEADER */
-
-
-/* HOME PAGE */
 
 #menu-tile, #specials-tile, #map-tile {
   height: 250px;
